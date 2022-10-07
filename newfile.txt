@@ -2,4 +2,12 @@ adasdasda
 
 dsadadasd
 
+
+<<<<<<< Updated upstream
 xsawasa
+=======
+
+Asdasdawas
+=======
+Asdasdawas
+>>>>>>> Stashed changes
