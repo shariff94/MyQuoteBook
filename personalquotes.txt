@@ -2,9 +2,3 @@ This is my personal quote
 
 With great power comes great responsibility
 
-
-<<<<<<< HEAD
-I like green
-=======
-I like blue
->>>>>>> parent of b9de8f3 (added bluish)
